@@ -1,0 +1,5 @@
+requests
+pytesseract
+fitz
+multiprocessing
+PyMuPDF

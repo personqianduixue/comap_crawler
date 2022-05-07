@@ -7,10 +7,6 @@ import PIL
 import pytesseract
 import os
 from multiprocessing import Process
-from multiprocessing import Queue
-import sys
-import logging
-import io
 import re
 
 pytesseract.pytesseract.tesseract_cmd = 'E:/prog/TesseractOCR/tesseract.exe'

@@ -3,9 +3,7 @@
 只运行一次部分下载会失败，需要运行多次，确保全部下载
 """
 import os
-
 import requests
-import pandas as pd
 from multiprocessing import Process
 
 class CMcmCertificateCrawler():

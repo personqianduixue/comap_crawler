@@ -1,4 +1,5 @@
 ./paper/*
 fail_lists.txt
 .idea/
-./bak
+./bak/*
+/.git*
