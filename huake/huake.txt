@@ -1,0 +1,534 @@
+2200069,Jiangnan Xu,Jingting Li,Yuhan Zhang,Huazhong University of Science and Technology,Finalist
+2200079,Tao Wang,Qilong Yang,Haofe1 Hou,Huazhong University of Science and Technology,Finalist
+2200080,Yueyang Yu,Zhengbin Yue,Xu Zhang,Huazhong University of Science and Technology,Honorable Mention
+2200082,Zicheng Ge,Lulu Chen,Zeyang Long,Huazhong University of Science and Technology,Honorable Mention
+2200094,Jingze Li,Yiyang Zhang,Leilei Lin,Huazhong University of Science and Technology,Honorable Mention
+2200100,Jin Yan,Wei Zhou,Shengyang Fan,Huazhong University of Science and Technology,Honorable Mention
+2200122,Xiaofan Wang,Yixun Feng,Keer Liu,Huazhong University of Science and Technology,Meritorious Winner
+2200130,Yuxuan Ma,Yihan Wang,Yuxiao Yang,Huazhong University of Science and Technology,Successful Participant
+2200173,Yu Li,Siy1 Zhu,Xuli Li,Huazhong University of Science and Technology,Meritorious Winner
+2200187,Ruiwen Hu,Han Meng,LI WEICHAO,Huazhong University of Science and Technology,Successful Participant
+2200206,Yuhang Qiao,YuHan Zou,yljian wang,Huazhong University of Science and Technology,Successful Participant
+2200237,Yikuan Fang,Tianang Leng,Junyu Zhang,Huazhong University of Science and Technology,Honorable Mention
+2200250,Haoran Guo,Zidi Yang,Mengdi Wang,Huazhong University of Science and Technology,Successful Participant
+2200275,Junjie Chen,Quen wang,Jiandong Han,Huazhong University of Science and Technology,Honorable Mention
+2200310,Caoyi1 Qian,Linting Zhu,Minyan Liu,Huazhong University of Science and Technology,Successful Participant
+2200436,Haotian Han,Songyuan Zheng,Mi Yunxiang,Huazhong University of Science and Technology,Successful Participant
+2200569,YISI LIU,Zhang Quanyi,xiaolong zhao,Huazhong University of Science and Technology,Successful Participant
+2200616,Zhengyu Quan,Shuntian Wu,Cheng Chen,Huazhong University of Science and Technology,Successful Participant
+2200749,Shouyue Wang,Shaoqi Li,Yiwen Qian,Huazhong University of Science and Technology,Successful Participant
+2200751,Yuhang Zhao,Xingyu Chen,Junjie Xu,Huazhong University of Science and Technology,Honorable Mention
+2200868,Huilin Ma,Siri Li,Shangwen Huang,Huazhong University of Science and Technology,Successful Participant
+2209034,Yinte Fan,Ruotian Xu,Liu Liu,Huazhong University of Science and Technology,Successful Participant
+2209089,Shuoyu Jin,Xiangyu Liu,Qihang Qiu,Huazhong University of Science and Technology,Honorable Mention
+2209095,Zhenhui Duan,Hexuan Wu,Yuanze Luo,Huazhong University of Science and Technology,Finalist
+2209100,Shixuan Li,Jianghangfan Zhang,Ke Yao,Huazhong University of Science and Technology,Successful Participant
+2209107,Weiren Zhou,Ruyi Huang,X1 He,Huazhong University of Science and Technology,Successful Participant
+2209245,Sihan Wang,Qinpeng Wang,Yaobang Wu,Huazhong University of Science and Technology,Successful Participant
+2209246,Feng Li,HaoPei Xu,Haocheng Zhan,Huazhong University of Science and Technology,Successful Participant
+2209251,Xiudi Shao,Yuyu Zhou,Jiayi Wang,Huazhong University of Science and Technology,Successful Participant
+2209292,Runlong Hu,Hengyi Hu,Jikun Fu,Huazhong University of Science and Technology,Successful Participant
+2209403,Yi Zhang,Wenjie Feng,Chen Yang,Huazhong University of Science and Technology,Honorable Mention
+2209408,Jie Zhan,Zhang Li,Yao Deng,Huazhong University of Science and Technology,Successful Participant
+2209414,Chao Xu,Chenyu Ou,YuLe Zhu,Huazhong University of Science and Technology,Meritorious Winner
+2209419,Zhang Fujun,Hu Xin,Guo Rutyuan,Huazhong University of Science and Technology,Honorable Mention
+2209457,Huanyu Wu,Luqing Cheng,Siyia Cal,Huazhong University of Science and Technology,Honorable Mention
+2209502,Caiwei Nie,Yan Liu,Hanxiao Liu,Huazhong University of Science and Technology,Successful Participant
+2209524,Yuzhi Liu,Xiangyi Le,Jinheng Jiang,Huazhong University of Science and Technology,Successful Participant
+2209536,Liu Jianchao,Wenbo Shang,Jinghuan Xu,Huazhong University of Science and Technology,Successful Participant
+2209628,Zixuan Wei,Chao Chen,Haotian Zhang,Huazhong University of Science and Technology,Meritorious Winner
+2209633,Hanting Wang,Haoyu Wang,Jiaze Xu,Huazhong University of Science and Technology,Successful Participant
+2209675,Yulin Fei,Zhi Gong,Kuai Yu,Huazhong University of Science and Technology,Successful Participant
+2209771,Yao Taoran,Wu Guanjun,Luo Run,Huazhong University of Science and Technology,Honorable Mention
+2209779,Jiale Zhou,Lingyun Li,Yuexin Wang,Huazhong University of Science and Technology,Honorable Mention
+2209812,Qi Lin,Changxin Huang,Ziyang Song,Huazhong University of Science and Technology,Outstanding Winner
+2209817,Changqing Li,Yuhong We1,Yang Ma,Huazhong University of Science and Technology,Successful Participant
+2209822,Duan Yuhan,Zhiyuan Liu,Wandi Li,Huazhong University of Science and Technology,Successful Participant
+2209829,Shuchang Li,Huang Cen,Wenhan Xu,Huazhong University of Science and Technology,Honorable Mention
+2209890,Jiajia Wu,Tao Wang,Jingyi Li,Huazhong University of Science and Technology,Honorable Mention
+2209931,Yifeng Qiu,Tianci Wang,Xiaoyu Han,Huazhong University of Science and Technology,Meritorious Winner
+2209943,Wen Zhang,Zhicheng Wang,Yafei Suo,Huazhong University of Science and Technology,Honorable Mention
+2210050,Weijian Ke,Yiting Liu,Qiuan Pan,Huazhong University of Science and Technology,Meritorious Winner
+2210169,Yu Tao,Hao Yan,Junchi Du,Huazhong University of Science and Technology,Successful Participant
+2210203,Jie li,Xinjing Hu,Shengran Li,Huazhong University of Science and Technology,Successful Participant
+2210212,Bo Xiao,Yujie Yang,Jingbin Wu,Huazhong University of Science and Technology,Honorable Mention
+2210238,Fux Yang,Yongyue Yu,Jincheng Wang,Huazhong University of Science and Technology,Successful Participant
+2210245,Zhenhua Wang,Guosong Ling,Xingyu Jie,Huazhong University of Science and Technology,Successful Participant
+2210269,Lan Cao,Yuhang Zhang,Xiaolong Y1,Huazhong University of Science and Technology,Successful Participant
+2210296,Wang Wentao,Chang Zihao,Zhang Tao,Huazhong University of Science and Technology,Successful Participant
+2210375,Jie Song,Xiaoxue Dong,Liangzihao Chen,Huazhong University of Science and Technology,Successful Participant
+2210376,Yijun Chen,Lin Xiang Rui,Ruoyan Wei,Huazhong University of Science and Technology,Successful Participant
+2210382,Ziting Zhang,Liang Zhang,Ming Li,Huazhong University of Science and Technology,Finalist
+2210395,Binshuo Ding,Yida Xie,Huazhong University of Science and Technology,Successful Participant
+2210397,Haoyu Chen,Jinkui Tan,Jingwei Cao,Huazhong University of Science and Technology,Successful Participant
+2210562,Yuyang Zhu,Jiawei Yang,Xiaoyu Li,Huazhong University of Science and Technology,Honorable Mention
+2210568,Meilin Li,Yizhou Huang,Zhang ShaoPeng,Huazhong University of Science and Technology,Successful Participant
+2210624,Yan He,Tao Yang,Yizuo Peng,Huazhong University of Science and Technology,Honorable Mention
+2210631,Benkang peng,Jiayi Zhang,Huazhong University of Science and Technology,Meritorious Winner
+2210667,WenBin Zheng,ZiHan Gao,MingD1 Shao,Huazhong University of Science and Technology,Finalist
+2210738,Wang Sirui,Li Nai,Lan Cuntao,Huazhong University of Science and Technology,Meritorious Winner
+2211027,Jiaci Deng,Zipeng Liu,Zhanhe Xu,Huazhong University of Science and Technology,Meritorious Winner
+2211055,Xie Guanghao,Xiong Jie,Huazhong University of Science and Technology,Successful Participant
+2211117,Lin Yubin,Cao Jiahao,Huang Haitao,Huazhong University of Science and Technology,Successful Participant
+2211138,Wei Xia,Aokai Ma,Wenjie Qu,Huazhong University of Science and Technology,Successful Participant
+2211140,Sitan Yan,X1 Chen,Songxinyl,Huazhong University of Science and Technology,Successful Participant
+2211143,Suhang Wel,Yu Xin,Yuze Jiang,Huazhong University of Science and Technology,Honorable Mention
+2211148,Ruixuan Dong,Xuan Zhong,Zibo Shen,Huazhong University of Science and Technology,Successful Participant
+2211348,Haixin Nan,Wenxiang Zhou,Yimin Lu,Huazhong University of Science and Technology,Meritorious Winner
+2211368,Liang Yu,Xi Feng,Meilin Zhang,Huazhong University of Science and Technology,Successful Participant
+2211384,Xu Jiao,Wei Pei,Huazhong University of Science and Technology,Successful Participant
+2211498,Zhenglong Jin,Linye Yang,Jiayi Lin,Huazhong University of Science and Technology,Honorable Mention
+2211611,Hongtao Zhang,Qi Kong,Lu Dai,Huazhong University of Science and Technology,Successful Participant
+2211648,Haoran Zhang,Chongzhi Deng,Siqi Cao,Huazhong University of Science and Technology,Honorable Mention
+2211667,Jiajun Dong,Liou Yu,Jincong lv,Huazhong University of Science and Technology,Successful Participant
+2211718,Yao Muyang,Xue Aoxiang,Dai Lequn,Huazhong University of Science and Technology,Successful Participant
+2211901,Wenzhou Wang,Jialin He,Ziming Yang,Huazhong University of Science and Technology,Finalist
+2211904,Wetyi Dong,Xin Long,Qincheng Wang,Huazhong University of Science and Technology,Successful Participant
+2211996,Zhiqi Wang,Jiawei Li,Chuming Shen,Huazhong University of Science and Technology,Honorable Mention
+2212010,Guanglei Bai,Yongzhu Hu,Jiayue Zhu,Huazhong University of Science and Technology,Meritorious Winner
+2212040,Yongchao Hou,Xin Yan,Kangli Chen,Huazhong University of Science and Technology,Successful Participant
+2212079,Chuanjin Ling,Ruibin Zheng,Chao Chen,Huazhong University of Science and Technology,Honorable Mention
+2212314,Jingxing Guan,Jiale Lv,Jiaqi Huang,Huazhong University of Science and Technology,Successful Participant
+2212374,Zhi Hu,Yuwei Huang,Weitao Yuan,Huazhong University of Science and Technology,Successful Participant
+2212515,Yiqi Guo,Jikai Sun,Tian X1a,Huazhong University of Science and Technology,Successful Participant
+2212520,Chen Sihan,Chen Ziyang,Tang Yiheng,Huazhong University of Science and Technology,Successful Participant
+2212539,Junlin Li,Zihao Lu,Ziyin Wang,Huazhong University of Science and Technology,Honorable Mention
+2212546,Junyi Zhang,Yanlong Gong,Yaxin Pi,Huazhong University of Science and Technology,Honorable Mention
+2212688,Hongtu Zhang,Jiacheng Yao,Jinghan Wu,Huazhong University of Science and Technology,Successful Participant
+2212710,Haoran Wang,Yunkai Wang,Y1 Zhou,Huazhong University of Science and Technology,Meritorious Winner
+2212713,Shuyang Liu,Xuanyu Jin,Fan Yang,Huazhong University of Science and Technology,Successful Participant
+2212733,Yiwei Dai,Xiangpei Yu,PanYue Wel,Huazhong University of Science and Technology,Successful Participant
+2212739,Kewei Zhu,Maosen Niu,Jinyuan Chen,Huazhong University of Science and Technology,Successful Participant
+2212750,Di Wu,Yao Yao,Fangwei Xu,Huazhong University of Science and Technology,Successful Participant
+2212867,Yutong Shi,Yang Yang,Yiqi Luo,Huazhong University of Science and Technology,Finalist
+2212969,Yanlei Liu,Yiqun Lan,Xiny1 Wang,Huazhong University of Science and Technology,Honorable Mention
+2213027,Chang Huayjin,Jiao Wenke,Li Jingy1,Huazhong University of Science and Technology,Honorable Mention
+2213030,Jianshui Yu,Yu Zhu,Yufeng Hu,Huazhong University of Science and Technology,Successful Participant
+2213094,Qiyue Wang,Ruchen Yue,Huazhong University of Science and Technology,Successful Participant
+2213259,Yuxiang Yang,Jiayuan Yao,Liu Xin,Huazhong University of Science and Technology,Honorable Mention
+2213267,Haoyuan Zhu,Jifeng Song,Qianchao Liao,Huazhong University of Science and Technology,Successful Participant
+2213272,Linghao Zhu,Kehan Li,RunZe Ma,Huazhong University of Science and Technology,Honorable Mention
+2213317,Ruiting Wu,Lihan Zhang,Gecen Gan,Huazhong University of Science and Technology,Honorable Mention
+2213454,Yuxuan He,Chenxuan Xu,Jixuan Wang,Huazhong University of Science and Technology,Successful Participant
+2213472,Jingian Kong,Tianfangyuan Zhou,Yue Cao,Huazhong University of Science and Technology,Successful Participant
+2213516,Zhenyan Zhang,Jianglin Yin,Zhihong Zhang,Huazhong University of Science and Technology,Successful Participant
+2213530,zhimingLong,Xiny1Wang,HaoyangJiang,Huazhong University of Science and Technology,Honorable Mention
+2213538,Fu Diyu,Zhu Feng,Huazhong University of Science and Technology,Honorable Mention
+2213573,Tianyi Huang,Yuyang Luo,Qingzheng Wu,Huazhong University of Science and Technology,Meritorious Winner
+2213634,Shi Yang,YangZihang,XAuWenguang,Huazhong University of Science and Technology,Successful Participant
+2213695,Chuqiao Mei,Xinyue Xie,Jianhua Wang,Huazhong University of Science and Technology,Successful Participant
+2213756,Zibo Wei,Siy1 Fang,Yixian Cao,Huazhong University of Science and Technology,Honorable Mention
+2213937,Yuanwei Wu,Jinchen Deng,Yueqi Wang,Huazhong University of Science and Technology,Successful Participant
+2213941,Zhaolong Tang,Hang Yang,Hui Xiong,Huazhong University of Science and Technology,Successful Participant
+2213950,Hongyuan Liang,Huaihao Mo,Yudan Zhang,Huazhong University of Science and Technology,Successful Participant
+2214053,BoHan Cen,Yin Wenti,Xiangchen Pan,Huazhong University of Science and Technology,Successful Participant
+2214096,Zhao Lufan,Liu Jiongyie,Wang Letian,Huazhong University of Science and Technology,Meritorious Winner
+2214146,Wenhao Yang,Ruomu Wang,Bingxuan Zhao,Huazhong University of Science and Technology,Successful Participant
+2214348,Qinglin Ji,Haoming Shen,Haonan Meng,Huazhong University of Science and Technology,Successful Participant
+2214355,Su Chang,Liu Bijia,Luo Zhaocheng,Huazhong University of Science and Technology,Successful Participant
+2214490,Wang Jiawei,Xiao Yuhan,Jiao Shujian,Huazhong University of Science and Technology,Honorable Mention
+2214591,Yuqi Qin,Xiangjian Hou,Xiaoyan Yin,Huazhong University of Science and Technology,Successful Participant
+2214607,Zhaoming Pang,Fang Zhou,Yu Cao,Huazhong University of Science and Technology,Finalist
+2214620,Hongmei Tang,Baoy1 Wang,Yuening He,Huazhong University of Science and Technology,Honorable Mention
+2214695,Ruilin Luo,Wenjie Zeng,Zhengyang Zhang,Huazhong University of Science and Technology,Finalist
+2214703,Quan Yuan,Yu Geng,Yang Da,Huazhong University of Science and Technology,Successful Participant
+2214777,Zejun Fan,Zihao Huang,Tian Qin,Huazhong University of Science and Technology,Honorable Mention
+2215106,Zhongsheng Jiang,Ning Wang,Chengyu Yang,Huazhong University of Science and Technology,Honorable Mention
+2215171,Hao Gao,Yali Zhang,Xinle Liu,Huazhong University of Science and Technology,Successful Participant
+2215487,Zhongao Ji,Wang Cai,Junfei Wang,Huazhong University of Science and Technology,Meritorious Winner
+2215501,Yating Qu,Qiyu Wang,Jiwei Liu,Huazhong University of Science and Technology,Successful Participant
+2216350,Yunfei Zhang,Yuxiao Hou,Junwei Zeng,Huazhong University of Science and Technology,Honorable Mention
+2216356,Gang Xie,Wanpeng Lu,Wuchen Liu,Huazhong University of Science and Technology,Successful Participant
+2216459,Wenxiang Lin,Ruiqi Mao,Yiyang Zhou,Huazhong University of Science and Technology,Successful Participant
+2216547,Haochen Xie,Jinjin He,Liwen X1ao,Huazhong University of Science and Technology,INFORMS Award
+2216559,Yangxin Jiang,Haoyuan X1ao,Rui Cao,Huazhong University of Science and Technology,Successful Participant
+2216802,Jizhi Wang,Ziheng Zhang,Bingying Lan,Huazhong University of Science and Technology,Successful Participant
+2216820,ZiAn Zhang,Lingyjia Zhang,Hongyu Chen,Huazhong University of Science and Technology,Successful Participant
+2216860,Zekun Ye,Xinyi Niu,Kexin Xie,Huazhong University of Science and Technology,Successful Participant
+2216929,Lei Chen,Ruizhi Zhang,Chang Chen,Huazhong University of Science and Technology,Honorable Mention
+2217002,Ziying Chen,Yuanmeng Shan,Xiuqi Lu,Huazhong University of Science and Technology,Successful Participant
+2217024,Weijia Zeng,Xin Li,Yihao Xue,Huazhong University of Science and Technology,Meritorious Winner
+2217040,Jiwen Gong,Muinzhe Xu,Hong Jiang,Huazhong University of Science and Technology,Successful Participant
+2217106,Jinyuan Pu,Eryong Zhang,Heng Zhou,Huazhong University of Science and Technology,Successful Participant
+2217379,Chenyu Zhao,Jingyuan Zhuo,Xiangze Wu,Huazhong University of Science and Technology,Honorable Mention
+2217463,Rui Hu,Zishan Yin,Zejia Zhang,Huazhong University of Science and Technology,Successful Participant
+2217517,Yue Wu,Pengfei Li,Yunhao L1,Huazhong University of Science and Technology,Successful Participant
+2217535,Tian Qin,Wenbo Yang,Xurui Li,Huazhong University of Science and Technology,Meritorious Winner
+2217538,Zhihui Duan,Xukun Zhu,Kuangwei Shi,Huazhong University of Science and Technology,Honorable Mention
+2217557,Binggqian Lu,Rui Zhang,Feryang Han,Huazhong University of Science and Technology,Successful Participant
+2217668,Boping Jiang,Zhongyao Yu,Yanting Fan,Huazhong University of Science and Technology,Successful Participant
+2217684,Shaojie Yuan,Ruzhao Chen,KaiSheng Hu,Huazhong University of Science and Technology,Successful Participant
+2217705,Haoran Li,Jiaqi Huang,Yuanpeng Shi,Huazhong University of Science and Technology,Successful Participant
+2217736,Yiran Guan,Huazhong University of Science and Technology,Meritorious Winner
+2217746,Zihao Su,Yuyang Hu,Yuanpeng Xiu,Huazhong University of Science and Technology,Successful Participant
+2217749,Shijyun Yang,Zeyu Zhang,Yubo Zhang,Huazhong University of Science and Technology,Honorable Mention
+2217761,Xiny1 Zhang,Wei Tang,MengYao Xiong,Huazhong University of Science and Technology,Successful Participant
+2217767,Yingqi Zhao,Xiaorul Ding,Xin Y1,Huazhong University of Science and Technology,Meritorious Winner
+2217770,Weicheng Tian,Sen Wang,Yu Fu,Huazhong University of Science and Technology,Successful Participant
+2217772,Rongjie Diao,yuke bai,Zhiwen Wu,Huazhong University of Science and Technology,Successful Participant
+2217779,Wei Li,Zhijie Gong,Jinbo Gao,Huazhong University of Science and Technology,Successful Participant
+2217796,Xiang Li,Shuaty1 Yang,Lingyi Shi,Huazhong University of Science and Technology,Meritorious Winner
+2217798,Shengxiang Liu,Jingyu Liu,Yi Zhong,Huazhong University of Science and Technology,Successful Participant
+2217824,Yueqiao Zhao,Wentao Ruan,Zihan Gao,Huazhong University of Science and Technology,Successful Participant
+2217929,Yuhao Liu,Xintong Li,Lie Li,Huazhong University of Science and Technology,Successful Participant
+2218058,Bogian Li,Jiangyi Fang,Sicheng Wel,Huazhong University of Science and Technology,Successful Participant
+2218111,Yuxin Kong,Xinlong Tan,Licheng Luo,Huazhong University of Science and Technology,Successful Participant
+2218162,Yulong Su,Weiheng Wang,Lifeng Dong,Huazhong University of Science and Technology,Successful Participant
+2218165,Yu Chuanlong,Anji Y1,Taimin Y1,Huazhong University of Science and Technology,Successful Participant
+2218166,Hongrui Li,Baining Chen,Wei He,Huazhong University of Science and Technology,Successful Participant
+2218173,Tao Shu,Ziliang Chen,Jianquan Hou,Huazhong University of Science and Technology,Successful Participant
+2218174,Tingyu Liang,ZeBin Yang,Yali Wang,Huazhong University of Science and Technology,Successful Participant
+2218188,Ziyun Yang,Junze Ren,Xiguang Hu,Huazhong University of Science and Technology,Successful Participant
+2218255,Yiyie Ni,Yuxuan Liao,Huazhong University of Science and Technology,Honorable Mention
+2218279,Kaixin Zhan,Renhua Wan,Bin Luo,Huazhong University of Science and Technology,Successful Participant
+2218318,Xu Enci,Wang Chenhan,Yang Yunshu,Huazhong University of Science and Technology,Successful Participant
+2218321,Shengyao Deng,Zhengliang Wang,Hongyun Mo,Huazhong University of Science and Technology,Meritorious Winner
+2218459,Xizhao Liu,Cheng Peng,Wei Wang,Huazhong University of Science and Technology,Successful Participant
+2218698,Ruiging Yang,Jirui Tang,Xiguo Zhu,Huazhong University of Science and Technology,Successful Participant
+2218824,Yuan Li,Zhengyang Liu,Ruoxi Zeng,Huazhong University of Science and Technology,Successful Participant
+2218938,Jinguo Shen,Huihui Zhang,Tiancheng Ma,Huazhong University of Science and Technology,Successful Participant
+2218943,Hailin Li,Yunbao Jiang,Fang Zhao,Huazhong University of Science and Technology,Successful Participant
+2218959,Wenjyie Li,Xiaoyu Su,Zhang Wenning,Huazhong University of Science and Technology,Successful Participant
+2201947,Juzheng Zhang,Jingy1 Ruan,Runping Cai,Huazhong University of Science and Technology,Successful Participant
+2201952,Zhensong Liu,Weiwei Wu,Zhang Yanzhen,Huazhong University of Science and Technology,Honorable Mention
+2219108,Shidong Han,xingyu zhao,Li Cao,Huazhong University of Science and Technology,Successful Participant
+2219189,Xingjian Zhao,Ruoyan Tian,Chencan Zheng,Huazhong University of Science and Technology,Honorable Mention
+2219198,Zonghe Shao,Haoran Liu,Zhiwen Luo,Huazhong University of Science and Technology,Meritorious Winner
+2219206,Ziwen Xiong,Hong Yu,Yuting Lu,Huazhong University of Science and Technology,Honorable Mention
+2219213,Xiaohan Yang,Zuhui Hu,Runjie Yu,Huazhong University of Science and Technology,Honorable Mention
+2219223,Qiyuan Ni,Yufan Huo,Yijia He,Huazhong University of Science and Technology,Honorable Mention
+2219274,Ao Lei,Wendong Hu,Junjie Li,Huazhong University of Science and Technology,Meritorious Winner
+2219275,Jiateng Wel,Yaohang Xu,Xiang Li,Huazhong University of Science and Technology,Honorable Mention
+2219283,Zixuan Tao,Shuo Zhang,Yi Xin,Huazhong University of Science and Technology,Honorable Mention
+2219371,JiaRong Chen,KeXu He,JiaQi Shen,Huazhong University of Science and Technology,Successful Participant
+2219373,Kaidi Zhang,Gan Yiping,MaLuanjie,Huazhong University of Science and Technology,Honorable Mention
+2219444,Zili Zhang,Weiheng Chi,Weilong Jiang,Huazhong University of Science and Technology,Finalist
+2219456,Zi'an Cao,Qiny1 Chen,Zhiwei Bu,Huazhong University of Science and Technology,Successful Participant
+2219463,Menglu Ru,Tongling He,Yaowen Xu,Huazhong University of Science and Technology,Successful Participant
+2219464,Siyang Zhang,Pengkun Li,Zhengqi Sun,Huazhong University of Science and Technology,Successful Participant
+2219477,Yan Zhang,Situo Song,Xiaotong Lu,Huazhong University of Science and Technology,Honorable Mention
+2219504,YuHao Lei,ZiHeng Wang,Jie Zhang,Huazhong University of Science and Technology,Honorable Mention
+2219612,Wen You,Zhenyu Wu,Xun Wu,Huazhong University of Science and Technology,Successful Participant
+2219675,Gan Weimeng,Yang Yifan,Zhang Jiahua,Huazhong University of Science and Technology,Successful Participant
+2219743,Mingxiang Zhu,Shibo Hu,Daiwei Wang,Huazhong University of Science and Technology,Successful Participant
+2219759,Zhiyong Liu,Wenjie Zheng,Zhanhao Zhang,Huazhong University of Science and Technology,Successful Participant
+2219762,Qingyu Chang,Boyuan Feng,Chengsi Zhang,Huazhong University of Science and Technology,Successful Participant
+2219763,Jinrong Cao,Yi Sun,Leqi Qiu,Huazhong University of Science and Technology,Successful Participant
+2219771,Xie Zongao,Shixin Wang,Shihang Tan,Huazhong University of Science and Technology,Successful Participant
+2219840,Lizhao Xv,Zhan Tuo,Zijia Wang,Huazhong University of Science and Technology,Successful Participant
+2219913,Yuxuan Rao,Lingzhi Xu,Ling Hao,Huazhong University of Science and Technology,Honorable Mention
+2219916,Qiannian Zhao,Xiang Li,Songtao Li,Huazhong University of Science and Technology,Finalist
+2219917,Wenyu Xie,Zhan Sun,Chao Ding,Huazhong University of Science and Technology,Honorable Mention
+2219954,Ziang Duan,Haoyang Cul,Ziquan Chen,Huazhong University of Science and Technology,Meritorious Winner
+2219978,Qilong Lai,Hanyu Xiao,Letian Gao,Huazhong University of Science and Technology,Successful Participant
+2220034,Heng Zhang,Sinian Su,Pei Yuan,Huazhong University of Science and Technology,Honorable Mention
+2220106,Siao Zeng,Xingyu Yuan,Chengcheng Cao,Huazhong University of Science and Technology,Honorable Mention
+2220201,Enyou Wu,YingYing Zhou,Huixuan Yin,Huazhong University of Science and Technology,Successful Participant
+2220259,Juny1 Chen,Haichuan Lin,Chenxu Liu,Huazhong University of Science and Technology,Meritorious Winner
+2220262,Jiehui Zhou,Honglei Lu,Jiahao Sun,Huazhong University of Science and Technology,Honorable Mention
+2220413,Xinchi Liu,Yifei Li,Xin Hong,Huazhong University of Science and Technology,Meritorious Winner
+2220417,Yuhang Zhou,SiJun Wei,Zihan Zhou,Huazhong University of Science and Technology,Honorable Mention
+2220423,Qiang Weng,Juanjuan Lu,Zhihao Li,Huazhong University of Science and Technology,Honorable Mention
+2220440,Lida Liu,Jiahao Hu,Hang Su,Huazhong University of Science and Technology,Successful Participant
+2220463,Zhang Yifel,Yang Lu,Hao Jia,Huazhong University of Science and Technology,Successful Participant
+2220495,Mingxue Tian,Beiyin Zhou,Chenxu Dang,Huazhong University of Science and Technology,Honorable Mention
+2220635,Zhechun Ding,Qingyang Zeng,Shuai Hu,Huazhong University of Science and Technology,Successful Participant
+2220644,Peng Zhou,Zuqiang Zhou,Xiaoyu Deng,Huazhong University of Science and Technology,Honorable Mention
+2220645,Jixin Wu,S1Yang Zhang,Linyao Wu,Huazhong University of Science and Technology,Successful Participant
+2220655,Jingyi Zhang,Liyang Wang,Jiawe Li,Huazhong University of Science and Technology,Successful Participant
+2220747,Yuhao Liu,Yifeng Xiong,Qirui Sun,Huazhong University of Science and Technology,Meritorious Winner
+2220758,Yanjiu He,Pinfeng Jiang,Siqi Tang,Huazhong University of Science and Technology,Successful Participant
+2220842,Shichang Qi,Binjie Liu,Auyu Deng,Huazhong University of Science and Technology,Successful Participant
+2220863,Pan Ruan,Mingyi Huang,Jiakang Li,Huazhong University of Science and Technology,Successful Participant
+2220880,Juewei Chen,Jingying Luo,Lin Jun Jie,Huazhong University of Science and Technology,Successful Participant
+2220903,Jintao Huang,Lunbeng Pan,Huazhong University of Science and Technology,Honorable Mention
+2220904,Zhao Shi,Haoxiang Yu,Guichun Xia,Huazhong University of Science and Technology,Successful Participant
+2220964,Yin Piao,Yang Liu,Yukai Weng,Huazhong University of Science and Technology,Honorable Mention
+2221062,Zhaoyuan Du,Shuaijie Duan,Kaihua Tang,Huazhong University of Science and Technology,Successful Participant
+2221205,Kangwei Wang,Jingyan Zhou,Jiaqi Li,Huazhong University of Science and Technology,Successful Participant
+2221235,Mingyang Wang,Yugqing Dong,Longlong Xing,Huazhong University of Science and Technology,Finalist
+2221246,Zihui Hong,Yu Niu,Xinyu Xiang,Huazhong University of Science and Technology,Successful Participant
+2221299,ZengBao Xing,Mingwei Chen,Xiao Zeng,Huazhong University of Science and Technology,Successful Participant
+2221309,Jingyang Chen,Zhihao Wang,Yiyang Liao,Huazhong University of Science and Technology,Successful Participant
+2221311,Li Fang,Haitao Zhu,Tianyi Hua,Huazhong University of Science and Technology,Successful Participant
+2221321,Zixuan Wang,DingTang,Yangyang Xiang,Huazhong University of Science and Technology,Successful Participant
+2221394,Wenqian Tang,Yuxin Xu,Yijian Huang,Huazhong University of Science and Technology,Successful Participant
+2221401,Jialong Zhang,Haojun Hu,Zhihan Sun,Huazhong University of Science and Technology,Successful Participant
+2221462,Jingru Feng,Yucen Wang,Jiejyie Wen,Huazhong University of Science and Technology,Honorable Mention
+2221574,Yanqiu Yu,BaoTong Wang,Yangchao Song,Huazhong University of Science and Technology,Successful Participant
+2221576,Yang You,Yuzhi Jiang,Peilin Shen,Huazhong University of Science and Technology,Successful Participant
+2221580,Xu Liu,Jilan Huang,Chuankai Dong,Huazhong University of Science and Technology,Successful Participant
+2221729,Ziyu Chen,Junliang Lin,Chuanwei Dai,Huazhong University of Science and Technology,Successful Participant
+2221805,Yanzhe Liang,Zehui Deng,Jialv Zou,Huazhong University of Science and Technology,Successful Participant
+2221860,GONG Bingquan,NG YuenChiu,CHEN Zhuoguang,Huazhong University of Science and Technology,Successful Participant
+2221905,Qingyang Lv,Jingxin Wu,Ji Jiang,Huazhong University of Science and Technology,Successful Participant
+2221948,Xiao Wu,Yu Xia,Mingwang Jiang,Huazhong University of Science and Technology,Honorable Mention
+2221974,Lulu Zheng,Desheng Huang,Chong Zhou,Huazhong University of Science and Technology,Successful Participant
+2222025,Qi Wang,Wenjing Wang,Xiaoyan Liu,Huazhong University of Science and Technology,Successful Participant
+2222052,Zhixin Zhao,Jinyu Zhang,Xinrui Pan,Huazhong University of Science and Technology,Successful Participant
+2222067,Xinsong Qin,Xucheng Xiang,Huanzhe Yang,Huazhong University of Science and Technology,Successful Participant
+2222072,Chenghao Fan,XAuan Huang,Longfei Chen,Huazhong University of Science and Technology,Honorable Mention
+2222078,Chenglong Zeng,FanJun Kong,Jinyan Lin,Huazhong University of Science and Technology,Successful Participant
+2222089,Lihui QIAN,Yuqi YANG,Yu XU,Huazhong University of Science and Technology,Successful Participant
+2222163,Yuxiang Shen,Xiangyu Gao,Wenzhong Li,Huazhong University of Science and Technology,Successful Participant
+2222214,Ying Zhao,Chen Chen,Qianyi Wel,Huazhong University of Science and Technology,Successful Participant
+2222222,Baichuan Gong,Zhijie Chen,Tao Xiong,Huazhong University of Science and Technology,Successful Participant
+2222224,Yixiang Lin,Chenyu Chen,Mingming Chen,Huazhong University of Science and Technology,Successful Participant
+2222239,Yujia Tong,Tianqi Liu,Jiangnan Yang,Huazhong University of Science and Technology,Meritorious Winner
+2222330,Haifeng Zang,Mingyang Zhang,Zhuo Chen,Huazhong University of Science and Technology,Successful Participant
+2222359,Jiawei Guo,Yingzhuo Li,Anlan Xu,Huazhong University of Science and Technology,Successful Participant
+2222425,Xu Jiang,Chenchen Ma,Wenrui Liao,Huazhong University of Science and Technology,Successful Participant
+2222435,Dian Wang,Ke Zhou,Siy1 Yin,Huazhong University of Science and Technology,Successful Participant
+2222497,Luyu Yang,ZhiRuo Sun,Jiahao Wang,Huazhong University of Science and Technology,Disqualified - P
+2222499,Yangyang Zheng,Zekun Huang,Hao Li,Huazhong University of Science and Technology,Successful Participant
+2222504,Xiuwen Chi,Dongliang Wu,Wei Luo,Huazhong University of Science and Technology,Successful Participant
+2222700,Yiheng Dong,Xiangjun Ye,Peiyu Zhang,Huazhong University of Science and Technology,Meritorious Winner
+2222707,Ang Gao,Zichuan Li,Junfei Du,Huazhong University of Science and Technology,Finalist
+2222711,Yanbo Qiao,Lutian Yu,Tianwei Li,Huazhong University of Science and Technology,Honorable Mention
+2222791,Jiarui Tang,Xinran Yu,Tong Su,Huazhong University of Science and Technology,Honorable Mention
+2222801,Ziwei Zheng,Zij1 Chen,Pulong Zhang,Huazhong University of Science and Technology,Successful Participant
+2222838,Mengyie He,Huazhong University of Science and Technology,Successful Participant
+2222945,Tian Qiu,Dongxun Su,Xingi Zhu,Huazhong University of Science and Technology,Successful Participant
+2222975,Yuxuan Han,Zhengxiong Zhu,Yiting Chen,Huazhong University of Science and Technology,Successful Participant
+2223002,Enqiang Lei,Yuanyuan Zhu,Lanshi Wel,Huazhong University of Science and Technology,Honorable Mention
+2223072,Jinyu Xiao,Xiao Yang,Chudong Wang,Huazhong University of Science and Technology,Successful Participant
+2223079,X1 Sun,Chenzhi Bai,Tingting Yao,Huazhong University of Science and Technology,Honorable Mention
+2223158,Dingcheng Jiang,Yunpeng Lv,Yuqi Chen,Huazhong University of Science and Technology,Successful Participant
+2223165,Zihan Xiong,Wentao Hu,Werjia Liu,Huazhong University of Science and Technology,Successful Participant
+2223283,Yu Zheng,Ziyao Guo,Yiting Yang,Huazhong University of Science and Technology,Successful Participant
+2223300,Siqi Zhao,Zhiyang Hu,Yangyang Hu,Huazhong University of Science and Technology,Honorable Mention
+2223345,Xinhang Lu,Bohan Hu,Rutying Zhang,Huazhong University of Science and Technology,Honorable Mention
+2223418,Rui Wang,Tao Sun,Hatyang Zhang,Huazhong University of Science and Technology,Successful Participant
+2223491,Genben Xiang,Haoyu Chen,Zichen Zhao,Huazhong University of Science and Technology,Successful Participant
+2223580,Zule1 Wu,Zeguang Du,Quanduo Yu,Huazhong University of Science and Technology,Honorable Mention
+2223598,Kaixuan Zhang,Yi Jiang,Gonglin Li,Huazhong University of Science and Technology,Successful Participant
+2223663,Zeming Ma,Tianle Li,Haosong Huang,Huazhong University of Science and Technology,Successful Participant
+2223683,Yongtao Long,Han Luo,Liqi Lei,Huazhong University of Science and Technology,Honorable Mention
+2223744,Xianyu Liu,Jintian Yu,Jiahao Chen,Huazhong University of Science and Technology,Successful Participant
+2223841,You Wu,Jiahui Sun,Ziqin Tu,Huazhong University of Science and Technology,Honorable Mention
+2223884,Werjie He,Tianchen Li,Wutao Chen,Huazhong University of Science and Technology,Disqualified - P
+2223956,Zeyu Niu,Haoyang Sun,Yongsheng Zhang,Huazhong University of Science and Technology,Honorable Mention
+2224012,Yun Huang,Hongbo Li,Yu Duan,Huazhong University of Science and Technology,Successful Participant
+2224052,Mingwei Liu,jiajie liu,Yongkun Wu,Huazhong University of Science and Technology,Successful Participant
+2224059,Naibijiang Ainiwa,Kehan Pang,Yanpu Li,Huazhong University of Science and Technology,Successful Participant
+2224066,Xiaoyang Wang,Chenxu Zhao,Shunchao Wu,Huazhong University of Science and Technology,Successful Participant
+2224067,Yangtong Su,huang tao,Yuanyuan Zeng,Huazhong University of Science and Technology,Successful Participant
+2224074,Xudong Liu,Cai Bingy1,Ya Zou,Huazhong University of Science and Technology,Honorable Mention
+2224200,Junyi Zhang,Junran Jia,Wang Yi,Huazhong University of Science and Technology,Successful Participant
+2224219,Jinyuan Zhang,Yueheng Zhang,Qian Chen,Huazhong University of Science and Technology,Successful Participant
+2224237,Xiaoyu Guo,Ruixi Yao,XAuecong Huang,Huazhong University of Science and Technology,Successful Participant
+2224300,Zhangmai Li,Xiang Gao,Kaili Sun,Huazhong University of Science and Technology,Successful Participant
+2224652,Tenghua Aj,Xilin Hong,Haotian Liang,Huazhong University of Science and Technology,Successful Participant
+2224683,Ziqi Li,Xin Huang,Xitao Ji,Huazhong University of Science and Technology,Successful Participant
+2224863,Yunkang Deng,Yong Zhong,Shaoku1 Zhang,Huazhong University of Science and Technology,Successful Participant
+2224928,Zhengqi Yan,Hanlin Pi,Xinpeng Yuan,Huazhong University of Science and Technology,Successful Participant
+2225033,Ziheng Huang,Zihe Liu,Jingcheng Zhang,Huazhong University of Science and Technology,Successful Participant
+2225061,Libo Wei,Tong Zhang,Chengcheng Ding,Huazhong University of Science and Technology,Successful Participant
+2225264,Xinyu Fu,Mengkang Nie,Yujia Kang,Huazhong University of Science and Technology,Honorable Mention
+2225287,HaoXuan Xu,Jiaxiang Mao,Jianheng Lu,Huazhong University of Science and Technology,Successful Participant
+2225295,Jiayi Liu,Jinghui Ling,Yueying Niu,Huazhong University of Science and Technology,Successful Participant
+2225379,Mingyie Du,Wanchen Yu,Liang Bai,Huazhong University of Science and Technology,Successful Participant
+2225444,Yipeng Wu,Junhao Han,Sihao Lai,Huazhong University of Science and Technology,Successful Participant
+2225467,Rongjian Yang,Zhikun Chen,Shuwen Liang,Huazhong University of Science and Technology,Successful Participant
+2225506,Jingyi Song,Tiehan Wang,Haoran Zhao,Huazhong University of Science and Technology,Honorable Mention
+2225548,Ting Xu,Bohan Yu,Rongshan Zhou,Huazhong University of Science and Technology,Successful Participant
+2225556,Liu Qingyuan,Tong Aoyang,Fengrui Liu,Huazhong University of Science and Technology,Successful Participant
+2225573,Zhang Youwen,Chen Yian,Zhang Zhi,Huazhong University of Science and Technology,Honorable Mention
+2225585,Haizhou Yao,Jiali Tang,Can Xu,Huazhong University of Science and Technology,Honorable Mention
+2225724,Yanghaozhe Wang,Wenjie Du,Chenkai Ye,Huazhong University of Science and Technology,Successful Participant
+2225755,SongLiang Cao,Haoyu Zhu,Yiran Chen,Huazhong University of Science and Technology,Successful Participant
+2225762,Hai Yan,Wenjie Cai,Yuhao Long,Huazhong University of Science and Technology,Honorable Mention
+2225764,Zekai Shi,Hao Xu,Gongwei Shi,Huazhong University of Science and Technology,Successful Participant
+2225782,zhuomin Liu,Yiming Jiao,Pengyu He,Huazhong University of Science and Technology,Successful Participant
+2225803,Siyuan He,Yumeng Gong,Yulai Wang,Huazhong University of Science and Technology,Honorable Mention
+2225831,Xinru Tang,Wenbiao Liu,Zhongqiu Chen,Huazhong University of Science and Technology,Successful Participant
+2225839,Xuan Zhu,Huizi Zhang,Shilong Hu,Huazhong University of Science and Technology,Successful Participant
+2225845,Ming Li,Haowei Li,Ang Lu,Huazhong University of Science and Technology,Successful Participant
+2225860,Qinling,MingweiShen,Zhaoming Li,Huazhong University of Science and Technology,Honorable Mention
+2225869,Lei Wu,Minghua Li,Yunlong Zhao,Huazhong University of Science and Technology,Successful Participant
+2226015,Yunmeng Zhou,Minhao Wu,Jiongye Wang,Huazhong University of Science and Technology,Honorable Mention
+2226044,Ruyie Zhang,Kangsheng Duan,Na Zhang,Huazhong University of Science and Technology,Honorable Mention
+2226257,Xintan Wang,Jun Dai,Wenkuan Chang,Huazhong University of Science and Technology,Honorable Mention
+2226296,Shuathong Li,Boying Meng,Xingrul Su,Huazhong University of Science and Technology,Successful Participant
+2226302,Qi Wang,Ruoxuan Wang,Zheng Wu,Huazhong University of Science and Technology,Successful Participant
+2226450,Zhenyu Yang,Wei Cao,NingWang,Huazhong University of Science and Technology,Successful Participant
+2226458,Zaixing Wen,WenxueChu,Wenyong Li,Huazhong University of Science and Technology,Successful Participant
+2226468,Mingyu Liu,Zhenyao Cui,Yuanfang Peng,Huazhong University of Science and Technology,Successful Participant
+2226485,Yiyang Hu,Guanyang Lai,Hanyu Li,Huazhong University of Science and Technology,Successful Participant
+2226553,Yixuan Zhang,Zhenkai Peng,Hongyuan L1,Huazhong University of Science and Technology,Successful Participant
+2226578,Baoping Li,Zhixuan Tang,Mengyuan Zhu,Huazhong University of Science and Technology,Honorable Mention
+2226689,Li Siyu,Feng Haowen,Hai Boning,Huazhong University of Science and Technology,Successful Participant
+2226690,Fang Zhao,Haibo Wang,Xuchen Peng,Huazhong University of Science and Technology,Successful Participant
+2226701,Zhuo Xu,Yujie Yang,Xin Zhan,Huazhong University of Science and Technology,Successful Participant
+2226767,You Wu,Yihang Chu,Weihua Zhang,Huazhong University of Science and Technology,Successful Participant
+2226795,Jingchen Zhou,Yongping Li,Xinsheng Lv,Huazhong University of Science and Technology,Successful Participant
+2226823,Heyang Xiong,Xinyi Liu,Methua Yin,Huazhong University of Science and Technology,Successful Participant
+2226828,Juehui Jiang,Jiahe Wang,Zhengyang Zhang,Huazhong University of Science and Technology,Honorable Mention
+2226829,Ru Wang,Quqing Huang,Dongxu Liu,Huazhong University of Science and Technology,Meritorious Winner
+2226898,Shijie Guan,Linze Li,Zhongze Ren,Huazhong University of Science and Technology,Disqualified - P
+2226924,Shihui Yan,Jiayi Yang,Ziyue Cheng,Huazhong University of Science and Technology,Successful Participant
+2227018,Weiheng Zhao,Yujie Hu,Yangui Fang,Huazhong University of Science and Technology,Meritorious Winner
+2227055,Yuhao Zhou,Xiaoyu Zhou,Yuzhi Chen,Huazhong University of Science and Technology,Successful Participant
+2227071,Yufeng Xiong,Yiwei Wu,Haoyu Jin,Huazhong University of Science and Technology,Successful Participant
+2227095,Jing Chunsen,Nie Rui,Mutian Yan,Huazhong University of Science and Technology,Successful Participant
+2227107,JIANG, Hanrui,MIAO, Wenjun,SHEN, Aocheng,Huazhong University of Science and Technology,Successful Participant
+2227138,Zhou Yilin,Cao An,Han Wenjie,Huazhong University of Science and Technology,Successful Participant
+2227218,xuanzhao,Yiming Sun,Fu Dengzhi,Huazhong University of Science and Technology,Successful Participant
+2227225,JiaWang Fan,Yi Liu,ZheZheng Zhang,Huazhong University of Science and Technology,Honorable Mention
+2227244,Mingrui Chen,Linfeng Yang,Kai Lu,Huazhong University of Science and Technology,Successful Participant
+2227252,Duanzhe Chen,Jiansong Wu,Yiwen Liu,Huazhong University of Science and Technology,Honorable Mention
+2227260,Wenlong Li,Jingguo Li,Yikai Han,Huazhong University of Science and Technology,Successful Participant
+2227263,Yifan Ren,Zhao Yang,Huanle Yin,Huazhong University of Science and Technology,Successful Participant
+2227311,Yangqi Luo,Jinghan Ruan,Huazhong University of Science and Technology,Successful Participant
+2227383,Zihan Yu,Yi Luo,Guangqi Chen,Huazhong University of Science and Technology,Successful Participant
+2227528,Lu'ning Geng,Zhiyang Zhang,Zixuan Huang,Huazhong University of Science and Technology,Successful Participant
+2227585,Difan Tan,Yuan Yu,Jinhui Xu,Huazhong University of Science and Technology,Successful Participant
+2227586,Yu Shao,Zhou Yansong,Y Uhao Fang,Huazhong University of Science and Technology,Successful Participant
+2227616,Linyu Zhao,Zichuan Xu,Jingqi Zhan,Huazhong University of Science and Technology,Successful Participant
+2227635,Ziying Xiang,Manlin Yao,Boyu Zhang,Huazhong University of Science and Technology,Successful Participant
+2227645,Yifan Li,Qi Song,Ruochen Wang,Huazhong University of Science and Technology,Successful Participant
+2227659,Zhenpeng Zhou,Tielong Zhang,Ximin Hu,Huazhong University of Science and Technology,Honorable Mention
+2227677,Zeliang Zhang,Mengping Shen,Wenwen Shao,Huazhong University of Science and Technology,Honorable Mention
+2227702,Yifan Han,Wenaing Li,Sifan Tu,Huazhong University of Science and Technology,Successful Participant
+2227750,Leyao Ma,Sixian Du,Juntao Wu,Huazhong University of Science and Technology,Successful Participant
+2227773,Zhongyang Wang,Yue Wang,Huazhong University of Science and Technology,Successful Participant
+2227790,Wang Jingyjie,Zhao Zhihao,Liu Tianle,Huazhong University of Science and Technology,Successful Participant
+2227937,Wux1ao,Huxiaowen,Xuketong,Huazhong University of Science and Technology,Honorable Mention
+2227987,Daolin Zhang,Sitong Zheng,Lei Peng,Huazhong University of Science and Technology,Successful Participant
+2228184,Boxuan Chen,Huazhong University of Science and Technology,Successful Participant
+2228258,SUN CAIXI,ZHUANG YEQI,Huazhong University of Science and Technology,Successful Participant
+2228515,Zixun Huang,Jie Zheng,Danyang Li,Huazhong University of Science and Technology,Honorable Mention
+2228524,Jiahe Song,Wei Wu,Bingy1 Zhang,Huazhong University of Science and Technology,Successful Participant
+2228565,Yifan Yang,Huyia Cui,ZhenWu,Huazhong University of Science and Technology,Successful Participant
+2228584,Lei Shen,Qining Ren,fukang yang,Huazhong University of Science and Technology,Successful Participant
+2228611,ZHANG QIN GUO LEI,JIANG MENG,PAN YUN FEI,Huazhong University of Science and Technology,Meritorious Winner
+2228727,Jun Hu,Xinpeng Jiang,Lang Xu,Huazhong University of Science and Technology,Successful Participant
+2228856,Tianhao Zhao,Wenbin Nie,Sunjian,Huazhong University of Science and Technology,Successful Participant
+2228921,Zhang Junyi,Wang Duohan,Zhang Miaosong,Huazhong University of Science and Technology,Successful Participant
+2228985,Ruifeng Nie,Zhuo Li,Zhenyu Wen,Huazhong University of Science and Technology,Successful Participant
+2228989,Shuyang Guo,Yueyang Chen,Yuchen Cai,Huazhong University of Science and Technology,Successful Participant
+2202119,Yuzhe Wang,Yitei Li,Yuhang Chen,Huazhong University of Science and Technology,Successful Participant
+2202123,Shaoyuan Xie,Qingwen Bu,Huayu Zhang,Huazhong University of Science and Technology,Meritorious Winner
+2202268,Peiie Li,Gaoyang Li,Yueying Wang,Huazhong University of Science and Technology,Successful Participant
+2202282,Chen Zihan,Li Shengyie,Ni Tao,Huazhong University of Science and Technology,Honorable Mention
+2202395,Yiheng Qin,Jinbiao Tang,Tan Chu,Huazhong University of Science and Technology,Successful Participant
+2202460,Jixin Min,Jinxiang Du,Hang Yue,Huazhong University of Science and Technology,Successful Participant
+2202664,Zekai Wu,Li Danying,Aotian Chen,Huazhong University of Science and Technology,Successful Participant
+2229001,Manni Wang,Tianrui Wang,Yidan Sun,Huazhong University of Science and Technology,Meritorious Winner
+2229002,Zihan Deng,Siting Liu,Weichao Yu,Huazhong University of Science and Technology,Successful Participant
+2229033,Jiyuan Hu,Zhenghong Lin,Longliang Liu,Huazhong University of Science and Technology,Successful Participant
+2203164,Jialian Zhang,Zikang Wang,Shulei li,Huazhong University of Science and Technology,Successful Participant
+2203172,Chenx1 Li,Ruiqi Xu,Zhen Luo,Huazhong University of Science and Technology,Honorable Mention
+2203558,Binkai Ma,Hao Deng,Guangxu Shang,Huazhong University of Science and Technology,Successful Participant
+2203852,Jingxi Tong,Lidong Zhang,Siryan Cun,Huazhong University of Science and Technology,Meritorious Winner
+2204024,Yuanpeng Fu,Xingye Lv,Yuantao Wang,Huazhong University of Science and Technology,Successful Participant
+2204028,Zhuo Zeng,Zheming Liu,Qiuyu Jin,Huazhong University of Science and Technology,Successful Participant
+2204653,Zhuo Wang,Jun Wu,Jingcheng Ruan,Huazhong University of Science and Technology,Honorable Mention
+2205113,Wuyie Wang,Siming Wu,Xin Shen,Huazhong University of Science and Technology,Successful Participant
+2205719,Zheny1 Yang,Yan Lai,Biwu Chu,Huazhong University of Science and Technology,Honorable Mention
+2205976,Jie Peng,Xiangmin Guo,Yucheng Yao,Huazhong University of Science and Technology,Successful Participant
+2205980,Yuchao Wang,Yugqin Yuan,Haorui Xu,Huazhong University of Science and Technology,Successful Participant
+2206014,Tang Haoyang,Zhang Shuyu,Ke Yiwa,Huazhong University of Science and Technology,Finalist
+2206151,Yan Wu,Fengkai Guo,Jinyu Jiang,Huazhong University of Science and Technology,Successful Participant
+2206155,Wenlve Huang,Yanling Jian,Zehao Song,Huazhong University of Science and Technology,Honorable Mention
+2206205,Shuai Zhang,Liang Chen,Ying ying Wang,Huazhong University of Science and Technology,Successful Participant
+2206206,Yikun Chen,Zichen Xie,Liangwei Zhou,Huazhong University of Science and Technology,Honorable Mention
+2206211,Yitian Gong,Yuqi Liu,Shurui Tu,Huazhong University of Science and Technology,Meritorious Winner
+2206220,Zixin Wang,Zhigao Jiang,Jiashu Huang,Huazhong University of Science and Technology,Successful Participant
+2206253,Chongyu Liu,Hongyu Sun,Wenjie Hu,Huazhong University of Science and Technology,Successful Participant
+2206260,Yidi Shui,Tengfei Gao,Zizhe Cai,Huazhong University of Science and Technology,Successful Participant
+2206396,Cunyu Shi,Xuchen Hua,Wenfei Guo,Huazhong University of Science and Technology,Honorable Mention
+2206407,Tianxiang Liu,Yueqi Cul,Yifei Jia,Huazhong University of Science and Technology,Successful Participant
+2206421,Hurry Gong,Guihan Wen,Zhifei Li,Huazhong University of Science and Technology,Successful Participant
+2206444,Zilong Bao,Qihang Fan,Tianyang Pu,Huazhong University of Science and Technology,Successful Participant
+2206535,Fuji Han,Suwen Zhu,Peng Xu,Huazhong University of Science and Technology,Successful Participant
+2206557,Suhui Liu,Guanqun Zhang,Yize Zheng,Huazhong University of Science and Technology,Successful Participant
+2206560,Xujia Jiao,Autong Yang,Hainan Ding,Huazhong University of Science and Technology,Successful Participant
+2206568,Pan Deng,Lin Chen,Fuli Wang,Huazhong University of Science and Technology,Successful Participant
+2206574,Zichen Xu,Han Li,Chengyuan Zhang,Huazhong University of Science and Technology,Meritorious Winner
+2206612,Siyang Liu,Changle Qu,Yufan He,Huazhong University of Science and Technology,Finalist
+2206616,Biliang Lai,Chenyu Zhou,Hang Yan,Huazhong University of Science and Technology,Honorable Mention
+2206623,Qi Cheng,Xianan Hu,Yan Zijie,Huazhong University of Science and Technology,Honorable Mention
+2206633,Sheng Cao,Tongyue Du,Zhen Huang,Huazhong University of Science and Technology,Successful Participant
+2206682,Haipeng Wang,Yuhao Zhang,Tingyu Ding,Huazhong University of Science and Technology,Successful Participant
+2206693,Qingrui Zeng,Qirui Huang,Ruiyie Yang,Huazhong University of Science and Technology,Successful Participant
+2206746,ruihan yang,jiangnan shi,xlaoqian ma,Huazhong University of Science and Technology,Successful Participant
+2206768,LingzhiYe,YangqingZeng,ChangchaoCheng,Huazhong University of Science and Technology,Successful Participant
+2206838,Xiaofeng Qin,Tiany1 Liu,Boxun Hu,Huazhong University of Science and Technology,Successful Participant
+2206853,Zhibo Zhang,Mengru Sun,Sinuo Wang,Huazhong University of Science and Technology,Successful Participant
+2206900,Lixin Zheng,Jingcai Li,Yujie Zheng,Huazhong University of Science and Technology,Successful Participant
+2206925,shaoweixin,Changpeng Zhao,Chengshuo He,Huazhong University of Science and Technology,Honorable Mention
+2206926,Ben Liu,Zeyu Peng,Zhuoyuan Zhang,Huazhong University of Science and Technology,Successful Participant
+2206931,Yihua Chen,Jiaxin Yang,Tiany1 Gu,Huazhong University of Science and Technology,Successful Participant
+2206977,Ruiming Huang,Fangy1 Zhang,Tianyu Zhao,Huazhong University of Science and Technology,Honorable Mention
+2206995,Yuxin Zhang,jie Chen,Yifan Zhao,Huazhong University of Science and Technology,Successful Participant
+2207003,Yuan Liu,Tingzhen Ye,Yuxuan Chen,Huazhong University of Science and Technology,Meritorious Winner
+2207075,Hanging Wang,Lianhang Liu,Zhiyuan Wu,Huazhong University of Science and Technology,Successful Participant
+2207079,Jiaping Li,Keshuai Hu,Ziyi Zhan,Huazhong University of Science and Technology,Honorable Mention
+2207081,Yuyao Wu,Jinyu Han,Jinwei Li,Huazhong University of Science and Technology,Successful Participant
+2207083,Zhu Qing,Jiawang Yang,Jiaqi Li,Huazhong University of Science and Technology,Successful Participant
+2207103,Zhang Jiayu,Zhang Yichen,Li Yiming,Huazhong University of Science and Technology,Honorable Mention
+2207135,Zikai Lin,Jingwei Li,Ying Liu,Huazhong University of Science and Technology,Successful Participant
+2207163,Jiayu Liu,Yu Jiang,Xudong You,Huazhong University of Science and Technology,Successful Participant
+2207167,Jianhui Song,Yi Ma,Yuqi Zhou,Huazhong University of Science and Technology,Successful Participant
+2207181,Chen Qianhe,Shituo Ma,Xiang Liao,Huazhong University of Science and Technology,Finalist
+2207195,Yihong Chen,Liuhao Dong,Chong Zhang,Huazhong University of Science and Technology,Successful Participant
+2207305,HaoRan Hu,Fan Wel,Yixiang Yang,Huazhong University of Science and Technology,Successful Participant
+2207308,QiWei Qiu,Youmin Zhang,Werijia Hao,Huazhong University of Science and Technology,Successful Participant
+2207313,Zhe Li,HuangLei,Huazhong University of Science and Technology,Successful Participant
+2207359,Yue Yan,Ye Chengrong,Jiang Yuxuan,Huazhong University of Science and Technology,Honorable Mention
+2207441,Huanyu Zhou,Xueyu Zou,Shutian Lei,Huazhong University of Science and Technology,Successful Participant
+2207494,Shuo Ren,Zijie Guo,Tianbao Qiu,Huazhong University of Science and Technology,Meritorious Winner
+2207503,Zixuan Gong,Shurui Wang,Shijie X1a0,Huazhong University of Science and Technology,Successful Participant
+2207584,Zhujie He,Tonghui Zhao,Keming Qian,Huazhong University of Science and Technology,Successful Participant
+2207665,Chen Yuhe,Yu Zongxi,Shi Zhijie,Huazhong University of Science and Technology,Honorable Mention
+2207667,Jiandong Chen,Shilin Luo,Jiaming wu,Huazhong University of Science and Technology,Successful Participant
+2207673,Guanzhe Hu,Chenrui Fan,Junyuan Huang,Huazhong University of Science and Technology,Successful Participant
+2207867,Dujun Nie,Manzhen Gao,Yuchao Chen,Huazhong University of Science and Technology,Honorable Mention
+2207891,Yuxin ZHANG,Mengying WANG,Sihang JIANG,Huazhong University of Science and Technology,Successful Participant
+2207898,Yulin Guo,Jing Fei,Rong Tang,Huazhong University of Science and Technology,Successful Participant
+2207923,Wei Du,Xingyu Chen,Jingyao Wu,Huazhong University of Science and Technology,Successful Participant
+2207927,Yuhao Nie,Shaoyang Li,Memgmemg Wang,Huazhong University of Science and Technology,Successful Participant
+2207976,Xuanchi Chen,Xiny1 Yang,Yangming Jin,Huazhong University of Science and Technology,Successful Participant
+2207986,Jiahao Guo,Shile1 Zeng,Jie Chen,Huazhong University of Science and Technology,Finalist
+2207989,Jiajun Song,YaWen Luo,Pengfei Y1,Huazhong University of Science and Technology,Successful Participant
+2207992,Yihan Wu,Yunxuan L1,Shen Chen,Huazhong University of Science and Technology,Successful Participant
+2207994,Ming Bi,Rui Chen,Rongzhu Lan,Huazhong University of Science and Technology,Successful Participant
+2208016,Shiryan Gao,Changzhen Chen,Jiaxiang Zhu,Huazhong University of Science and Technology,Successful Participant
+2208121,Chuanhong Zhan,Pu Yin,Xiangyu Zhou,Huazhong University of Science and Technology,Successful Participant
+2208175,Jingsong Liu,Anqi Liu,Jing Xu,Huazhong University of Science and Technology,Successful Participant
+2208176,Zhengpeng Zhao,Wenbo Xu,Jiayi Li,Huazhong University of Science and Technology,Honorable Mention
+2208178,Ruhao Ning,Shuo Meng,KeLong Zheng,Huazhong University of Science and Technology,Successful Participant
+2208187,Jiahe Dou,Huanyu Wang,Mingjin Yang,Huazhong University of Science and Technology,Successful Participant
+2208224,Ziheng Liu,Yan Li,Xiangyu Sun,Huazhong University of Science and Technology,Successful Participant
+2208232,Zhaoxing Zhang,Peng Yu,JingQi Zhang,Huazhong University of Science and Technology,Honorable Mention
+2208253,Jingyu Liu,Jinjin Cao,Xinyu Yuan,Huazhong University of Science and Technology,Successful Participant
+2208311,Yubo Zhao,Haoliang Ba,Cong Ding,Huazhong University of Science and Technology,Honorable Mention
+2208318,ZiYue Xiao,Zihan Li,Liangxuan Wu,Huazhong University of Science and Technology,Successful Participant
+2208327,Zizhao Tong,Changsheng Shi,Tiancheng Liu,Huazhong University of Science and Technology,Honorable Mention
+2208335,Weichen Wang,Kai Yang,Yife1 Wang,Huazhong University of Science and Technology,Unsuccessful - I
+2208341,Runyu Lu,Yibin Wang,Shiran Yang,Huazhong University of Science and Technology,Honorable Mention
+2208360,wenkai xing,liqian huang,jing ma,Huazhong University of Science and Technology,Successful Participant
+2208365,Qiuchen Wang,Jiasheng Wang,YinchuXie,Huazhong University of Science and Technology,Successful Participant
+2208496,Yutian Zhang,Shichuan Wang,Tiancheng Zheng,Huazhong University of Science and Technology,Meritorious Winner
+2208511,Yu Zhe,Xue Zhang,Zhiyuan Shi,Huazhong University of Science and Technology,Meritorious Winner
+2208521,Yifan Wang,Yixin Pan,Yining Peng,Huazhong University of Science and Technology,Successful Participant
+2208523,Yilin Chen,Yueyao Wang,Tian Yang,Huazhong University of Science and Technology,Successful Participant
+2208527,Chenglei Shen,Jingyi Tan,Bowen Gu,Huazhong University of Science and Technology,Successful Participant
+2208629,Ruiwen Wang,Mengjia Guo,Weizuo Zhou,Huazhong University of Science and Technology,Successful Participant
+2208635,Yi Li,Zhu Fei,Xiao Deng,Huazhong University of Science and Technology,Meritorious Winner
+2208645,Xinyu Yu,Rongqi Shang,Changwang Lei,Huazhong University of Science and Technology,Meritorious Winner
+2208647,Shuo Zhang,Yanling Zhong,Haoyu Li,Huazhong University of Science and Technology,Successful Participant
+2208665,Li Yitong,Zhang Yilin,Zhao linqi,Huazhong University of Science and Technology,Successful Participant
+2208671,Cheng Xiang,Yue Hui,Hao Jiang,Huazhong University of Science and Technology,Successful Participant
+2208678,Wei Qingyu,Xinyu Lei,Yiming Li,Huazhong University of Science and Technology,Successful Participant
+2208679,HaoWang,Tianhang Zhang,Jinlong Zhou,Huazhong University of Science and Technology,Honorable Mention
+2208704,Yang Zhang,Wenhao Li,Boyu Zou,Huazhong University of Science and Technology,Honorable Mention
+2208764,Lingjie Fan,Xun Hou,Xuehui Yu,Huazhong University of Science and Technology,Honorable Mention
+2208831,Jiajun Wu,Zhifei He,Keyi Huang,Huazhong University of Science and Technology,Meritorious Winner
+2208836,Dazhi Li,Z1ixu Shen,Zidong Li,Huazhong University of Science and Technology,Successful Participant
+2208839,Qizhong Wang,Yuanzhe Hu,Hanwen Zhang,Huazhong University of Science and Technology,Successful Participant
+2208841,Heng Zhang,Au Wang,Weijian Wang,Huazhong University of Science and Technology,Successful Participant
+2208885,Yiming Zhang,Yan Zhang,Xiyu Ran,Huazhong University of Science and Technology,Successful Participant
+2223104,Feifang Tang,Haowei Zhang,HengCui,Huazhong University of Science and Technology,Honorable Mention
+2215406,Lingyun Shao,Dantong Liu,Hao Li,Huazhong University of Science and Technology,Successful Participant
