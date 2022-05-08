@@ -10,4 +10,6 @@ pdf2text.py:  多进程pdf OCR信息提取，大概用时1.5小时
 
 最终识别得到的信息条数：27161
 
+https://raw.githubusercontent.com/personqianduixue/comap_crawler/master/all/all.txt
+
 部分信息会识别错误，例如 i 识别成了 1 
